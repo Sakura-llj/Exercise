@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercise</string>
+    <string name="hint_txt">Input RMB</string>
+    <string name="btn_dollar_label">Dollar</string>
+    <string name="btn_euro_label">Euro</string>
+    <string name="btn_won_label">Won</string>
+    <string name="btn_opencfg">Config</string>
+</resources>
